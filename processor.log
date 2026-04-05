@@ -1,3 +1,0 @@
-2026-04-05 22:02:56 [WARNING] meteo_processor: 1 row(s) have unparseable dates and will be dropped.
-2026-04-05 22:02:56 [INFO] meteo_processor: Date range: 2026-01-01 00:00:00 → 2026-01-02 00:00:00
-2026-04-05 22:02:56 [WARNING] meteo_processor: Column 'max_dewpoint_f': 1 value(s) outside [-60.0, 90.0].
